@@ -1,0 +1,12 @@
+First u need to Install the library pygame
+using this command : pip install pygame
+#------------------------------------
+There are five main parts:
+
+1.Importing the required libraries and setting up the required global variables.
+2.Designing the game display function, that will set a platform
+for other components to be displayed on the screen
+3.win and draw
+4.Getting the user input and displaying the “X” or “O” at the proper position
+where the user has clicked his mouse.
+5.Running an infinite loop, and including the defined methods in it.
